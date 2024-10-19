@@ -1,4 +1,4 @@
-public class Problem2 {
+public class subscribe {
     public static void main(String[] args) {
         System.out.println("Subscribe");
     }
